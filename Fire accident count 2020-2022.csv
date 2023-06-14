@@ -1,0 +1,62 @@
+year,description_of_cause,count_of_fire_hazards
+2022,"cooker/stove(electric, gas and earthern stove)",3368
+2022,electrical hazard,9275
+2022,burning leftover beedi-cigarette pieces,3878
+2022,use of open lamp,327
+2022,hot ash/fuel,488
+2022,children playing with fire,602
+2022,friction in m/c parts,167
+2022,arson(enmity or mob),157
+2022,lightning or other natural disaster,48
+2022,fireworks,94
+2022,excess heat/high heat,165
+2022,m/c misfire,160
+2022,autoignition,29
+2022,chimney spark,13
+2022,static electricity,19
+2022,chemical reaction,29
+2022,"blust (cylinder, boiler etc.)",94
+2022,fire in gas distribution pipeline,795
+2022,vehicle accident,303
+2022,unknown or other causes,4091
+2021,"cooker/stove(electric, gas and earthern stove)",3922
+2021,electrical hazard,7955
+2021,burning leftover beedi-cigarette pieces,3193
+2021,use of open lamp,403
+2021,hot ash/fuel,479
+2021,children playing with fire,586
+2021,friction in m/c parts,160
+2021,arson(enmity or mob),167
+2021,lightning or other natural disaster,67
+2021,fireworks,16
+2021,excess heat/high heat,94
+2021,m/c misfire,76
+2021,autoignition,10
+2021,chimney spark,11
+2021,static electricity,7
+2021,chemical reaction,11
+2021,"blust (cylinder, boiler etc.)",105
+2021,fire in gas distribution pipeline,789
+2021,vehicle accident,269
+2021,unknown or other causes,3281
+2020,"cooker/stove(electric, gas and earthern stove)",3564
+2020,electrical hazard,7729
+2020,burning leftover beedi-cigarette pieces,3465
+2020,use of open lamp,369
+2020,hot ash/fuel,545
+2020,children playing with fire,720
+2020,friction in m/c parts,141
+2020,arson(enmity or mob),180
+2020,lightning or other natural disaster,98
+2020,fireworks,50
+2020,excess heat/high heat,94
+2020,m/c misfire,173
+2020,autoignition,23
+2020,chimney spark,33
+2020,static electricity,16
+2020,chemical reaction,12
+2020,"blust (cylinder, boiler etc.)",135
+2020,fire in gas distribution pipeline,722
+2020,vehicle accident,259
+2020,unknown or other causes,2745
+Total,,66776

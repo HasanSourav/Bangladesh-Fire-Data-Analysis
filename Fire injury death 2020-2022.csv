@@ -1,0 +1,41 @@
+year,Description.of.fire.accident.scene,common_people_injured_male,common_people_injured_female,total_common_injured,common_people_dead_male,common_people_dead_female,total_common_dead,injured_fire_employee,dead_fire_employee,injured_rescued_male,injured_rescued_female,total_injued_rescued,dead_rescued_male,dead_rescued_female,total_dead_rescued
+2022,factory-industry fire,35,5,40,47,3,50,17,13,35,5,40,47,3,50
+2022,slum fire,21,8,29,2,4,6,0,0,21,8,29,2,4,6
+2022,gas distribution pipeline fire,14,7,21,7,0,7,0,0,14,7,21,7,0,7
+2022,gas cylinder fire,28,2,30,0,1,1,0,0,28,2,30,0,1,1
+2022,boiler fire,5,1,6,0,0,0,0,0,5,1,6,0,0,0
+2022,multi-storied building fire,9,9,18,4,2,6,4,0,9,9,18,4,2,6
+2022,other building fire,15,5,20,1,0,1,0,0,15,5,20,1,0,1
+2022,vehicle fire,28,6,34,0,0,0,3,0,28,6,34,0,0,0
+2022,hospital fire,6,0,6,4,0,4,0,0,6,0,6,4,0,4
+2022,market-haat-bazaar-shop fire,35,7,42,2,0,2,1,0,35,7,42,2,0,2
+2022,KPI and govt. institute fire,5,2,7,0,0,0,0,0,5,2,7,0,0,0
+2022,education institute fire,1,2,3,0,0,0,0,0,1,2,3,0,0,0
+2022,other scene fire,101,20,121,5,3,8,5,0,101,20,121,5,3,8
+2021,factory-industry fire,70,39,109,57,85,142,0,0,70,39,109,57,85,142
+2021,slum fire,5,5,10,1,1,2,0,0,5,5,10,1,1,2
+2021,gas distribution pipeline fire,62,29,91,1,1,2,0,0,62,29,91,1,1,2
+2021,gas cylinder fire,59,16,75,5,3,8,0,0,59,16,75,5,3,8
+2021,boiler fire,3,0,3,0,0,0,0,0,3,0,3,0,0,0
+2021,multi-storied building fire,18,16,34,3,3,6,4,0,18,16,34,3,3,6
+2021,other building fire,47,20,67,11,1,12,1,0,47,20,67,11,1,12
+2021,vehicle fire,27,7,34,12,5,17,0,0,27,7,34,12,5,17
+2021,hospital fire,8,5,13,0,0,0,0,0,8,5,13,0,0,0
+2021,market-haat-bazaar-shop fire,43,2,45,11,0,11,1,0,43,2,45,11,0,11
+2021,KPI and govt. institute fire,11,4,15,0,0,0,0,0,11,4,15,0,0,0
+2021,education institute fire,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,other scene fire,64,10,74,15,4,19,0,0,64,10,74,15,4,19
+2020,factory-industry fire,21,0,21,4,1,5,0,0,21,0,21,4,1,5
+2020,slum fire,22,10,32,7,5,12,3,0,22,10,32,7,5,12
+2020,gas distribution pipeline fire,30,10,40,2,2,4,0,0,30,10,40,2,2,4
+2020,gas cylinder fire,49,18,67,6,0,6,0,0,49,18,67,6,0,6
+2020,boiler fire,5,0,5,1,0,1,0,0,5,0,5,1,0,1
+2020,multi-storied building fire,10,5,15,1,2,3,5,0,10,5,15,1,2,3
+2020,other building fire,27,20,47,3,1,4,2,0,27,20,47,3,1,4
+2020,vehicle fire,20,8,28,9,89,98,0,0,20,8,28,9,89,98
+2020,hospital fire,0,4,4,5,0,5,0,0,0,4,4,5,0,5
+2020,market-haat-bazaar-shop fire,24,1,25,5,4,9,2,0,24,1,25,5,4,9
+2020,KPI and govt. institute fire,3,0,3,0,0,0,3,0,3,0,3,0,0,0
+2020,education institute fire,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,other scene fire,28,2,30,5,2,7,0,0,28,2,30,5,2,7
+Total,,,,1264,236,222,458,,13,,,,,,458
